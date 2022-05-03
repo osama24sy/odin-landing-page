@@ -194,3 +194,16 @@ body {
     border-radius: 8px;
     padding: 5px 30px;
 }
+
+.footer {
+    background-color: #1f2937;
+    margin: 0px;
+    padding: 48px;
+}
+
+.footer p {
+    font-size: 18px;
+    text-align: center;
+    color: #F9FAF8;
+    margin: 0px;
+}
